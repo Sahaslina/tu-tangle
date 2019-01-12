@@ -1,0 +1,82 @@
+.container{
+   width:1100px;
+   margin:0 auto;
+   /* background:yellow; */
+
+}
+.header-wrapper{
+   /* background:red; */
+}
+.logo-search-wrapper{
+   width:800px;
+   /* background:yellow; */
+   float: left; 
+   border: 1px solid black;
+}
+.user-name-wrapper{
+   width:300px;
+   /* background:gold; */
+   float:right;
+   border: 1px solid black;
+   
+}
+.user-info-wrapper{
+   width:400px;
+   /* background: green; */
+   float:right;
+   border: 1px solid black;
+   
+}
+.logo-wrapper{
+   width:300px;
+   /* background:blue; */
+   float:left;
+   /* border: 1px solid black; */
+}
+.search-bar-wrapper{
+   width:500px;
+   /* background: slateblue; */
+   float:right;
+   border: 1px solid black;
+}
+
+.navbar-list-wrapper{
+   width:700px;
+   /* background: orangered; */
+   border: 1px solid black;
+   float:left;
+}
+.footer-wrapper{
+   width:1100px;
+   background:white;
+   border: 1px solid black;
+
+}
+.left-footer-wrapper{
+   width:400px;
+   /* background:fuchsia; */
+   float:left;
+}
+.left-child-sidebar-wrapper{
+   /* background: plum; */
+}
+.right-footer-wrapper{
+   width:300px;
+   /* background: firebrick; */
+   float:right;
+}
+
+
+.left-sidebar-wrapper{
+   /* background: greenyellow; */
+   border: 1px solid black;
+}
+.middle-content-wrapper{
+   width:300px;
+   /* background: lightcoral; */
+   border: 1px solid black;
+}
+.right-sidebar-wrapper{
+   /* background: lightseagreen; */
+   border: 1px solid black;
+}
